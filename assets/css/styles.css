@@ -1,0 +1,28 @@
+body{
+    background-image: url("../images/bg2.png");
+}
+.footerHeight
+{
+    height: 60px;
+    border-top: solid #000000 5px;
+    background-color: #000000;
+    color: #FFF;
+}
+
+.content{
+    background-color: #FFF;
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.card
+{
+    margin: 10px;
+}
+
+
+.greenBG {
+    background-color: #000000;
+}
